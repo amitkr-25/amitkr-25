@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @amitkr-25
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... DevOps
-- 💞️ I’m looking to collaborate on ...  
-- 📫 How to reach me ... 
+- 👀 I’m interested in ... Coding, CS, Gaming, Music, Workouts, Books, Investing
+- 🌱 I’m currently learning ... ELK Stack and MuleSoft 
+- 💞️ I’m looking to collaborate on ... Django Projects
+- 📫 How to reach me ... ak1608759@gmail.com
 
 <!---
-amitkr-25/amitkr-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
